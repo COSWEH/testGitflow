@@ -8,7 +8,7 @@ function App() {
       <div className="min-h-screen bg-background text-foreground">
         <div className="container mx-auto p-4">
           <div className="flex justify-between items-center mb-8">
-            <h1 className="text-2xl font-bold">Todo Application</h1>
+            <h1 className="text-2xl font-bold">Task Tracker</h1>
             <ModeToggle />
           </div>
           <Home />
